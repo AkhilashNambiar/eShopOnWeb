@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b6a1b651-b8c3-489e-8032-e40d522bd3c4
-  WEBAPP-NAME: kyndryl
+  WEBAPP-NAME: kyndryl091568
 
 
 jobs:
