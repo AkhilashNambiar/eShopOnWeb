@@ -5,11 +5,11 @@ on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: ctjpabatch8
+  RESOURCE-GROUP: kyndryl
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b6a1b651-b8c3-489e-8032-e40d522bd3c4
-  WEBAPP-NAME: ctjpabatch8
+  WEBAPP-NAME: kyndryl
 
 
 jobs:
