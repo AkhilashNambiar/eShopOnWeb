@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 30ce5c34-46e9-4556-b6fe-6d46e86d981b
-  WEBAPP-NAME: ctjpabatch13
+  SUBSCRIPTION-ID: e9154cf1-6e15-49f5-beb0-05c31886c243
+  WEBAPP-NAME: tcsionpreview
 
 
 jobs:
