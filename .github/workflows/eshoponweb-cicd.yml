@@ -5,11 +5,11 @@ on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: mygradez
+  RESOURCE-GROUP: githubactions
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 663f5c0e-7a21-477e-b949-68721866f882
-  WEBAPP-NAME: mygradez2345
+  SUBSCRIPTION-ID: 11249d64-c756-4728-9170-bbeefea3a2c8
+  WEBAPP-NAME: githubactionsofakhi
 
 
 jobs:
